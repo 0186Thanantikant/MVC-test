@@ -50,12 +50,6 @@
         {% if repaired %}
         <p style="color: blue;">✔ The suit has been repaired to {{ suit.durability }} </p>
         {% endif %}
-        <h2>Number of repaired suit of each type:</h2>
-        <ul>
-            <li>ชุดทรงพลัง: {{ repair_count["ชุดทรงพลัง"] }} ชุด</li>
-            <li>ชุดลอบเร้น: {{ repair_count["ชุดลอบเร้น"] }} ชุด</li>
-            <li>ชุดปกปิดตัวตน: {{ repair_count["ชุดปกปิดตัวตน"] }} ชุด</li>
-        </ul>
         {% endif %}
         <br>
         <a href="/">Go back and check again</a>
