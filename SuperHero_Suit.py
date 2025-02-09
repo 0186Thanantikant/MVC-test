@@ -8,6 +8,9 @@ db_file = "database.json"
 
 # M - about database keep data connect data
 class SuitModel:
+
+    repair_count = {"ชุดทรงพลัง": 0, "ชุดลอบเร้น": 0, "ชุดปกปิดตัวตน": 0}
+
     @staticmethod
     def load_database():
         with open(db_file, "r") as file:
@@ -38,6 +41,11 @@ class SuitModel:
         if suit["type"] == "ชุดปกปิดตัวตน" and str(suit["durability"])[-1] in ["3", "7"]:
             return False
         return True
+    
+    @staticmethod
+    def increment_repair_count(suit_type):
+        if suit_type in SuitModel.repair_count:
+            SuitModel.repair_count[suit_type] += 1
 
 # C - input from user and process 
 @web.route("/")
@@ -64,8 +72,9 @@ def repair_suit():
     for suit in database:
         if suit["id"] == suit_id:
             suit["durability"] = min(suit["durability"] + 25, 100)
+            SuitModel.increment_repair_count(suit["type"])
             SuitModel.save_database(database)
-            return render_template("result.html", suit=suit, repaired=True)
+            return render_template("result.html", suit=suit, repaired=True, repair_count=SuitModel.repair_count)
     
     return render_template("result.html", error="ชุดไม่พบในฐานข้อมูล")
 
