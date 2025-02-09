@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>ผลการตรวจสอบ</title>
+    <style>
+        * {
+            font-family: 'Mali', sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* manage obj. in div to center */
+        #content {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="content">
+        <h1>ผลการตรวจสอบชุด</h1>
+        {% if error %}
+        <p style="color: red;">{{ error }}</p>
+        {% else %}
+        <p>รหัสชุด: {{ suit.id }}</p>
+        <p>ประเภท: {{ suit.type }}</p>
+        <p>ความทนทาน: {{ suit.durability }}</p>
+
+        {% if valid %}
+        <p style="color: green;">✔ ชุดนี้ผ่านการตรวจสอบ</p>
+        {% else %}
+        <p style="color: red;">❌ ชุดนี้ไม่ผ่านการตรวจสอบ</p>
+        <form action="/repair" method="post">
+            <input type="hidden" name="suit_id" value="{{ suit.id }}">
+            <button type="submit">ซ่อมแซมชุด</button>
+        </form>
+        {% endif %}
+
+        {% if repaired %}
+        <p style="color: blue;">✔ ชุดได้รับการซ่อมแซมเป็น {{ suit.durability }} แล้ว</p>
+        {% endif %}
+        {% endif %}
+        <br>
+        <a href="/">กลับไปตรวจสอบใหม่</a>
+    </div>
+</body>
+
+</html>

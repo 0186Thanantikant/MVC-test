@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>ตรวจสอบชุดซุปเปอร์ฮีโร่</title>
+    <style>
+        * {
+            font-family: 'Mali', sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* manage obj. in div to center */
+        #content {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="content">
+        <h1>ตรวจสอบความทนทานของชุดซุปเปอร์ฮีโร่</h1>
+        <form action="/check" method="post">
+            <label for="suit_id">กรอกรหัสชุด (6 หลัก):</label>
+            <input type="text" id="suit_id" name="suit_id" required>
+            <button type="submit">ตรวจสอบ</button>
+        </form>
+    </div>
+
+</body>
+
+</html>
