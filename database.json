@@ -1,252 +1,252 @@
 [
     {
-        "id": "575133",
+        "id": "297894",
         "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 27
+        "durability": 10
     },
     {
-        "id": "876783",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 12
-    },
-    {
-        "id": "248538",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 48
-    },
-    {
-        "id": "852636",
+        "id": "892014",
         "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 37
+        "durability": 49
     },
     {
-        "id": "534258",
+        "id": "471725",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 20
+    },
+    {
+        "id": "228248",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 43
+    },
+    {
+        "id": "477006",
+        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
+        "durability": 51
+    },
+    {
+        "id": "188203",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 42
+    },
+    {
+        "id": "137751",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 29
+    },
+    {
+        "id": "350124",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 29
+    },
+    {
+        "id": "477128",
+        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
         "durability": 80
     },
     {
-        "id": "422833",
+        "id": "656796",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 33
+        "durability": 95
     },
     {
-        "id": "559107",
-        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 40
+        "id": "190441",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 16
     },
     {
-        "id": "319910",
-        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
+        "id": "553083",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 51
+    },
+    {
+        "id": "368467",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
         "durability": 70
     },
     {
-        "id": "382743",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 34
-    },
-    {
-        "id": "163611",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 87
-    },
-    {
-        "id": "355249",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 66
-    },
-    {
-        "id": "692168",
-        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 61
-    },
-    {
-        "id": "533155",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 62
-    },
-    {
-        "id": "622972",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 24
-    },
-    {
-        "id": "763737",
+        "id": "381806",
         "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 39
+        "durability": 32
     },
     {
-        "id": "113659",
-        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 37
-    },
-    {
-        "id": "356977",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 69
-    },
-    {
-        "id": "885036",
-        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 86
-    },
-    {
-        "id": "355498",
+        "id": "354856",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
         "durability": 32
     },
     {
-        "id": "365075",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 14
-    },
-    {
-        "id": "912906",
+        "id": "950255",
         "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 75
+        "durability": 62
     },
     {
-        "id": "334843",
+        "id": "313263",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 51
+    },
+    {
+        "id": "110370",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 76
+        "durability": 88
     },
     {
-        "id": "468283",
+        "id": "746415",
+        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
+        "durability": 10
+    },
+    {
+        "id": "553472",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 37
+        "durability": 82
     },
     {
-        "id": "542801",
+        "id": "869927",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 96
+    },
+    {
+        "id": "349172",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 39
+    },
+    {
+        "id": "221863",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 7
+    },
+    {
+        "id": "355056",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 59
+    },
+    {
+        "id": "628569",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 89
+    },
+    {
+        "id": "915020",
         "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
         "durability": 71
     },
     {
-        "id": "761922",
+        "id": "414284",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 70
+    },
+    {
+        "id": "978226",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 11
+        "durability": 1
     },
     {
-        "id": "561113",
-        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 58
-    },
-    {
-        "id": "995037",
-        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 59
-    },
-    {
-        "id": "694188",
-        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 32
-    },
-    {
-        "id": "646195",
+        "id": "351810",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 22
-    },
-    {
-        "id": "372098",
-        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 50
-    },
-    {
-        "id": "286796",
-        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
         "durability": 15
     },
     {
-        "id": "497356",
+        "id": "626999",
         "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 84
+        "durability": 57
     },
     {
-        "id": "790310",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 51
-    },
-    {
-        "id": "254730",
+        "id": "135254",
         "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 13
+        "durability": 69
     },
     {
-        "id": "333008",
+        "id": "569164",
         "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 88
+        "durability": 89
     },
     {
-        "id": "547289",
-        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 22
-    },
-    {
-        "id": "479724",
-        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 100
-    },
-    {
-        "id": "185442",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 59
-    },
-    {
-        "id": "135129",
-        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 82
-    },
-    {
-        "id": "662916",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 30
-    },
-    {
-        "id": "369207",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 13
-    },
-    {
-        "id": "725535",
+        "id": "483098",
         "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
         "durability": 93
     },
     {
-        "id": "930913",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 59
+        "id": "856002",
+        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
+        "durability": 90
     },
     {
-        "id": "954224",
+        "id": "284232",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 43
+        "durability": 86
     },
     {
-        "id": "655568",
+        "id": "132719",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 88
+        "durability": 10
     },
     {
-        "id": "440501",
+        "id": "237304",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 91
+    },
+    {
+        "id": "135490",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 66
+    },
+    {
+        "id": "577509",
+        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
+        "durability": 35
+    },
+    {
+        "id": "310048",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 44
+    },
+    {
+        "id": "685801",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 80
+    },
+    {
+        "id": "170684",
+        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
+        "durability": 85
+    },
+    {
+        "id": "564967",
+        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
         "durability": 94
     },
     {
-        "id": "811632",
-        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
-        "durability": 22
-    },
-    {
-        "id": "593770",
-        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
-        "durability": 46
-    },
-    {
-        "id": "730931",
+        "id": "933500",
         "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
-        "durability": 93
+        "durability": 69
     },
     {
-        "id": "428306",
+        "id": "486187",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 69
+    },
+    {
+        "id": "368838",
         "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
         "durability": 79
+    },
+    {
+        "id": "544112",
+        "type": "\u0e0a\u0e38\u0e14\u0e1b\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e15\u0e19",
+        "durability": 95
+    },
+    {
+        "id": "139965",
+        "type": "\u0e0a\u0e38\u0e14\u0e25\u0e2d\u0e1a\u0e40\u0e23\u0e49\u0e19",
+        "durability": 36
+    },
+    {
+        "id": "110914",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 10
+    },
+    {
+        "id": "157917",
+        "type": "\u0e0a\u0e38\u0e14\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07",
+        "durability": 57
     }
 ]

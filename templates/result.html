@@ -6,13 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
-        rel="stylesheet">
-    <title>ผลการตรวจสอบ</title>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <title>Inspection results</title>
     <style>
         * {
-            font-family: 'Mali', sans-serif;
+            font-family: 'Quicksand', sans-serif;
         }
 
         body {
@@ -31,30 +29,30 @@
 
 <body>
     <div id="content">
-        <h1>ผลการตรวจสอบชุด</h1>
+        <h1>Suit of inspection results</h1>
         {% if error %}
         <p style="color: red;">{{ error }}</p>
         {% else %}
-        <p>รหัสชุด: {{ suit.id }}</p>
-        <p>ประเภท: {{ suit.type }}</p>
-        <p>ความทนทาน: {{ suit.durability }}</p>
+        <p>suit id: {{ suit.id }}</p>
+        <p>type: {{ suit.type }}</p>
+        <p>durability: {{ suit.durability }}</p>
 
         {% if valid %}
-        <p style="color: green;">✔ ชุดนี้ผ่านการตรวจสอบ</p>
+        <p style="color: green;">✔ This suit has been verified.</p>
         {% else %}
-        <p style="color: red;">❌ ชุดนี้ไม่ผ่านการตรวจสอบ</p>
+        <p style="color: red;">❌ This suit has not passed the inspection.</p>
         <form action="/repair" method="post">
             <input type="hidden" name="suit_id" value="{{ suit.id }}">
-            <button type="submit">ซ่อมแซมชุด</button>
+            <button type="submit">Repair of suit</button>
         </form>
         {% endif %}
 
         {% if repaired %}
-        <p style="color: blue;">✔ ชุดได้รับการซ่อมแซมเป็น {{ suit.durability }} แล้ว</p>
+        <p style="color: blue;">✔ The suit has been repaired to {{ suit.durability }} </p>
         {% endif %}
         {% endif %}
         <br>
-        <a href="/">กลับไปตรวจสอบใหม่</a>
+        <a href="/">Go back and check again</a>
     </div>
 </body>
 
